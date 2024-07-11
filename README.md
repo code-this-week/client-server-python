@@ -152,3 +152,6 @@ def predict():
 - `server.py`: Contains the Flask server code.
 - `client.py`: Authorized client script.
 - `unauthorized_client.py`: Unauthorized client script.
+
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/code-this-week/client-server-python/main/screen.png)
